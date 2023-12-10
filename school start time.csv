@@ -1,0 +1,101 @@
+Student_ID,Age,Gender,Major,Number_of_Classes,Commuting_Time,GWA,School_Start_Time,Sleep_Hours,Academic_Performance_Score
+1,18,Female,Biology,3,27,2.23,09:00,6.2,74.49
+2,23,Male,Computer Science,6,28,3.39,10:00,6.7,86.42
+3,22,Female,Biology,6,37,3.79,10:00,6.8,88.43
+4,22,Female,Business,6,51,2.42,08:30,7.6,77.14
+5,22,Female,Biology,5,31,3.14,09:00,5.6,82.51
+6,24,Female,Biology,5,18,3.22,09:00,7.3,85.21
+7,19,Female,Computer Science,3,17,2.62,09:30,9.6,81.91
+8,23,Female,Biology,5,16,3.78,08:00,6.2,81.9
+9,20,Female,Biology,3,27,2.77,08:00,6.9,77.29
+10,18,Female,Business,3,45,1.15,09:30,6.2,60.68
+11,23,Male,Business,3,30,3.93,08:00,7.3,88.65
+12,22,Male,Business,5,37,1.16,08:00,6.1,62.43
+13,20,Male,Business,4,13,1.79,09:30,10.0,68.37
+14,20,Female,Computer Science,4,37,1.84,08:00,6.1,64.14
+15,18,Male,Business,4,44,1.75,09:30,6.7,60.25
+16,23,Male,Computer Science,6,34,1.34,08:00,7.4,58.66
+17,21,Male,Biology,5,40,3.66,09:30,4.8,82.18
+18,22,Female,Business,4,48,3.08,10:00,6.1,78.37
+19,24,Female,Computer Science,5,32,3.69,08:30,7.6,85.76
+20,18,Male,Biology,3,20,2.38,10:00,8.8,72.84
+21,20,Male,Business,4,56,2.05,09:30,6.5,69.89
+22,20,Male,Computer Science,5,43,1.54,10:00,8.3,70.44
+23,22,Female,Computer Science,3,24,3.72,08:30,7.0,94.33
+24,20,Female,Business,3,50,3.21,09:00,5.8,86.18
+25,23,Female,Biology,3,18,1.23,09:30,8.3,60.74
+26,18,Male,Computer Science,6,19,3.07,10:00,4.0,80.4
+27,24,Female,Business,6,36,3.28,09:00,4.7,86.99
+28,22,Male,Computer Science,4,52,3.02,10:00,9.8,81.31
+29,24,Female,Computer Science,6,49,2.35,09:00,7.3,71.16
+30,19,Male,Computer Science,5,57,3.97,08:30,8.3,87.77
+31,23,Female,Business,5,57,1.05,09:00,4.0,63.82
+32,19,Male,Computer Science,6,28,3.91,08:00,5.3,97.43
+33,21,Male,Computer Science,6,60,1.89,08:30,7.7,68.8
+34,23,Female,Biology,6,57,2.24,09:30,8.0,77.34
+35,22,Female,Business,3,50,2.76,08:30,7.8,81.09
+36,20,Female,Computer Science,4,59,1.57,09:00,6.0,58.19
+37,20,Male,Computer Science,3,41,3.42,10:00,6.3,86.78
+38,20,Female,Computer Science,6,27,2.75,08:30,6.8,72.24
+39,21,Male,Computer Science,4,21,1.91,08:30,7.2,80.04
+40,20,Male,Biology,3,46,1.71,08:30,8.8,78.0
+41,20,Female,Computer Science,3,23,3.6,10:00,7.2,87.12
+42,19,Female,Computer Science,5,42,1.81,09:30,5.6,60.6
+43,22,Male,Biology,5,59,2.58,09:30,6.2,76.28
+44,18,Female,Biology,5,13,2.64,08:00,7.7,71.02
+45,18,Female,Computer Science,3,17,2.83,08:30,6.7,78.26
+46,19,Male,Business,5,33,3.56,10:00,8.7,82.07
+47,23,Female,Computer Science,4,27,2.48,10:00,6.0,76.05
+48,23,Male,Computer Science,5,31,1.1,08:00,7.2,53.38
+49,18,Female,Biology,3,15,2.85,09:00,6.6,80.51
+50,18,Male,Business,6,50,2.98,10:00,8.6,78.63
+51,23,Male,Biology,3,12,1.09,09:30,6.8,52.94
+52,22,Female,Biology,6,57,3.98,09:00,4.0,94.77
+53,21,Female,Business,6,29,1.34,08:00,9.7,62.28
+54,24,Female,Biology,3,17,2.31,09:00,5.6,74.46
+55,18,Female,Computer Science,6,12,3.53,08:00,5.7,82.46
+56,22,Male,Biology,6,17,2.79,09:30,9.6,74.87
+57,22,Male,Biology,6,33,2.61,10:00,7.3,81.74
+58,22,Female,Computer Science,6,21,2.39,09:00,8.4,67.65
+59,23,Female,Computer Science,5,33,1.22,09:30,6.4,61.69
+60,20,Male,Business,6,28,3.33,10:00,4.3,88.74
+61,18,Female,Biology,6,27,3.52,09:30,7.8,89.05
+62,18,Male,Business,6,23,2.07,10:00,8.8,73.32
+63,21,Female,Computer Science,5,28,3.59,10:00,6.1,87.59
+64,20,Male,Biology,3,15,1.46,09:00,4.4,71.94
+65,18,Male,Biology,6,51,2.79,09:30,5.3,70.19
+66,19,Male,Computer Science,5,10,1.47,10:00,8.3,56.53
+67,18,Male,Computer Science,4,44,3.75,08:30,8.5,90.81
+68,19,Female,Business,3,35,1.83,09:00,6.9,68.77
+69,19,Female,Business,4,50,1.55,09:30,6.1,69.78
+70,20,Female,Business,4,53,2.84,09:30,6.2,84.91
+71,20,Male,Computer Science,3,54,3.13,09:00,7.8,82.61
+72,19,Male,Business,6,29,1.56,10:00,6.8,70.1
+73,20,Female,Computer Science,6,46,3.54,08:30,7.3,89.92
+74,21,Female,Business,6,54,3.71,08:30,8.4,94.75
+75,20,Male,Computer Science,6,45,1.42,08:00,5.4,61.15
+76,19,Female,Biology,6,36,3.4,09:00,6.5,91.83
+77,24,Male,Biology,3,44,1.25,08:30,8.6,55.8
+78,19,Male,Biology,4,30,1.94,08:00,5.9,67.69
+79,21,Male,Biology,6,12,2.19,09:30,6.5,66.08
+80,23,Female,Business,6,20,2.54,09:00,7.8,83.19
+81,21,Female,Biology,5,12,3.8,09:30,7.6,85.31
+82,24,Male,Business,6,56,3.21,10:00,8.5,86.79
+83,24,Female,Computer Science,4,54,2.56,10:00,6.6,68.01
+84,19,Male,Biology,4,40,3.09,08:30,6.6,91.34
+85,19,Male,Business,5,38,3.72,09:00,6.5,85.73
+86,18,Male,Biology,3,32,1.11,09:30,8.5,62.74
+87,18,Male,Computer Science,6,27,1.54,08:00,5.5,66.95
+88,24,Male,Biology,5,53,3.15,08:30,7.0,86.48
+89,21,Female,Computer Science,5,45,2.25,10:00,4.9,79.0
+90,18,Female,Business,5,27,3.17,09:30,6.8,69.71
+91,23,Male,Biology,3,19,1.39,10:00,4.9,66.04
+92,20,Female,Biology,5,59,1.07,08:00,4.2,58.91
+93,21,Female,Business,5,35,3.88,09:00,5.8,88.43
+94,20,Male,Computer Science,4,20,2.34,09:30,7.5,73.21
+95,20,Male,Business,6,54,1.79,10:00,6.2,75.04
+96,19,Female,Business,6,14,2.06,09:30,8.2,61.21
+97,24,Female,Business,5,10,2.02,10:00,7.6,68.39
+98,21,Male,Computer Science,4,58,2.63,10:00,4.7,65.47
+99,19,Female,Business,3,59,3.27,10:00,9.3,85.73
+100,22,Female,Computer Science,5,47,2.55,08:30,7.2,74.37
